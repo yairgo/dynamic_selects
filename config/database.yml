@@ -1,0 +1,11 @@
+development:
+  adapter: mysql
+  ecoding: utf8
+  database: dynamic_selects_development
+  username: root
+
+test:
+  adapter: mysql
+  ecoding: utf8
+  database: dynamic_selects_test
+  username: root
